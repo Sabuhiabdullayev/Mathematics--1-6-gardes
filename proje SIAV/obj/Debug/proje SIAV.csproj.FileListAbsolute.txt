@@ -1,0 +1,16 @@
+D:\programs\proje SIAV\proje SIAV\bin\Debug\proje SIAV.exe.config
+D:\programs\proje SIAV\proje SIAV\bin\Debug\proje SIAV.exe
+D:\programs\proje SIAV\proje SIAV\bin\Debug\proje SIAV.pdb
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje SIAV.csproj.SuggestedBindingRedirects.cache
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Form1.resources
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Form2.resources
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Properties.Resources.resources
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje SIAV.csproj.GenerateResource.cache
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje SIAV.csproj.CoreCompileInputs.cache
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje SIAV.exe
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje SIAV.pdb
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje SIAV.csproj.AssemblyReference.cache
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Form3.resources
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Form6.resources
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Form4.resources
+D:\programs\proje SIAV\proje SIAV\obj\Debug\proje_SIAV.Form5.resources
